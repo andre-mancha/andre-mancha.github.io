@@ -1,0 +1,35 @@
+---
+title: "André Mancha"
+---
+
+## Bem-vindo
+
+Sou pesquisador em economia aplicada, com foco em avaliação de políticas públicas, mercado de trabalho e crime.
+
+Minha agenda de pesquisa combina métodos econométricos com aplicações em desenvolvimento econômico e políticas baseadas em evidência.
+
+---
+
+## Pesquisa
+
+Meus trabalhos investigam temas como:
+
+- Mercado de trabalho e informalidade  
+- Políticas de segurança pública  
+- Impactos de intervenções governamentais  
+- Economia do desenvolvimento  
+
+---
+
+## Projetos
+
+- [📊 Matemática Financeira](https://andre-mancha.github.io/MatFin/)
+
+---
+
+## Contato
+
+- Email: andre.mancha@usp.br  
+- [Google Scholar](https://scholar.google.com.br/citations?user=dtCZ3-kAAAAJ&hl=pt-BR)  
+- [CV](http://lattes.cnpq.br/0068388022715152)  
+- [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-mancha-670a3440/)

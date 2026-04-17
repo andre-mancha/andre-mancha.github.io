@@ -1,0 +1,43 @@
+---
+title: "Sobre"
+---
+
+## Sobre
+
+Sou economista com experiência em pesquisa aplicada, avaliação de impacto e políticas públicas.
+
+Atualmente atuo com projetos que buscam gerar evidência rigorosa para informar decisões de política econômica, com foco em países em desenvolvimento.
+
+---
+
+## Bio
+
+André Mancha é pesquisador na área de economia aplicada, com interesse em mercado de trabalho, criminalidade e avaliação de políticas públicas.  
+
+Seu trabalho utiliza métodos econométricos modernos, incluindo experimentos e abordagens quase-experimentais, para analisar o impacto de intervenções governamentais.
+
+Antes disso, atuou como professor no Insper, onde lecionou disciplinas como econometria, microeconomia aplicada e organização industrial.
+
+---
+
+## Áreas de Interesse
+
+- Economia do Trabalho  
+- Economia do Crime  
+- Avaliação de Impacto  
+- Desenvolvimento Econômico  
+
+---
+
+## Links
+
+- 📄 [Curriculum Vitae](http://lattes.cnpq.br/0068388022715152)  
+- 📚 [Google Scholar](https://scholar.google.com.br/citations?user=dtCZ3-kAAAAJ&hl=pt-BR)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-mancha-670a3440/)  
+- 🧠 [GitHub](https://github.com/andre-mancha)
+
+---
+
+## Nota
+
+Este site reúne projetos, materiais de ensino e pesquisas em andamento.
