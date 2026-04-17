@@ -1,38 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "André Mancha",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Sou pesquisador em economia aplicada, com foco em avaliação de políticas públicas, mercado de trabalho e crime.\nMinha agenda de pesquisa combina métodos econométricos com aplicações em desenvolvimento econômico e políticas baseadas em evidência."
+    "text": "Labour Economics, 2026\nShort abstract: This paper investigates the impact of monitoring and market regulation on the illicit market for stolen goods, focusing on the association between junkyards and auto theft. I explore the effects of a state-level regulation implemented in São Paulo in 2014, which enhanced supervision of the auto parts market. I find an 8.11% decline in auto theft for municipalities presenting at least one junkyard specialized in auto parts compared to the control group. Additionally, I provide evidence of a meaningful decrease in vehicle insurance prices, suggesting tangible economic benefits for citizens as a result of lower crime rates. These findings offer crucial insights into market regulation as a crime deterrence strategy to reduce the trade of stolen goods, highlighting its complementarity with traditional public security policies.\n\n\n\nJournal of Development Economics, 2025 Media Coverage: Vox Dev - How regulating junkyards reduced car theft in Brazil\nShort abstract: This paper investigates the impact of monitoring and market regulation on the illicit market for stolen goods, focusing on the association between junkyards and auto theft. I explore the effects of a state-level regulation implemented in São Paulo in 2014, which enhanced supervision of the auto parts market. I find an 8.11% decline in auto theft for municipalities presenting at least one junkyard specialized in auto parts compared to the control group. Additionally, I provide evidence of a meaningful decrease in vehicle insurance prices, suggesting tangible economic benefits for citizens as a result of lower crime rates. These findings offer crucial insights into market regulation as a crime deterrence strategy to reduce the trade of stolen goods, highlighting its complementarity with traditional public security policies.\n\n\n\nWorld Development, 2025\nShort abstract: Violent crime is prevalent in developing countries, requiring substantial investments in law enforcement. This paper shows how police surveillance is crucial to deterring homicides in violent areas. I investigate the impact of reduced law enforcement on crime by leveraging data on police strikes, violent deaths, victims’ records, and criminal groups. Following a police strike, homicides in Brazilian states increase temporarily by 45%, and 88% of deaths in neighborhoods with many criminal groups are of suspected gang members. My theoretical model describes the mechanism behind increased killings, demonstrating that police strike amplifies the expected gains from gang conflicts and retaliation. This pushes criminals to attack rivals, even when territories are evenly divided.\n\n\n\nRevista Brasileira de Economia, 2024\nShort abstract: In this paper, we analyze two quasi-experiments to assess how urban traffic restrictions and social distancing norms affect pollution levels in the municipality São Paulo, one of the largest metropolitan areas in the world. First, using hourly air pollution levels measured in thirty-three monitoring stations in the state of São Paulo, we exploit exogenous variation in quarantine rules following the COVID-19 outbreak to estimate how social distancing norms affected pollution levels across different municipalities. We find an average decrease of 22.4% in air pollution after the first days of the capital’s quarantine announcement, with heterogeneous effects across pollutants, driven by decreases in the vehicle fleet and urban mobility. Second, we compare this effect with another quasi-experiment that explores exogenous suspensions of traffic restriction rules between 2000-2018 in the municipality of São Paulo. We also document increases in pollution levels when more cars are allowed in the streets, with an average increase of 16.7% in air pollution. Finally, we use our estimates to show that a reduction of 4.7 times the estimated ATT in the quarantine period is necessary to reach the capital’s long-term air quality goals.\n\n\n\nEconomiA, 2020\nShort abstract: This work explores that Brazilian public firms were allowed to hire workers either as statutory (“civil servants”) as well as under private market labor regime (“CLT”). We use RAIS that matches employer-employee data for all formal firms in Brazil from 2014 to 2016 to control for fixed effects at the individual and firm levels and the Oaxaca-Blinder decomposition to quantify the size of the wage differential explained by the labor regime versus individual characteristics. We find that CLT civil servants earn in average R$ 310.00 per month less than similar statutory positions, a difference of 13% comparing the average wage of each group. Only for high skilled workers we found a salary R$ 95.98 larger for CLT employees. Last, our decomposition strategy reveals that the largest share of the gap is not explained by endowments differences."
   },
   {
-    "objectID": "index.html#bem-vindo",
-    "href": "index.html#bem-vindo",
-    "title": "André Mancha",
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
     "section": "",
-    "text": "Sou pesquisador em economia aplicada, com foco em avaliação de políticas públicas, mercado de trabalho e crime.\nMinha agenda de pesquisa combina métodos econométricos com aplicações em desenvolvimento econômico e políticas baseadas em evidência."
+    "text": "Labour Economics, 2026\nShort abstract: This paper investigates the impact of monitoring and market regulation on the illicit market for stolen goods, focusing on the association between junkyards and auto theft. I explore the effects of a state-level regulation implemented in São Paulo in 2014, which enhanced supervision of the auto parts market. I find an 8.11% decline in auto theft for municipalities presenting at least one junkyard specialized in auto parts compared to the control group. Additionally, I provide evidence of a meaningful decrease in vehicle insurance prices, suggesting tangible economic benefits for citizens as a result of lower crime rates. These findings offer crucial insights into market regulation as a crime deterrence strategy to reduce the trade of stolen goods, highlighting its complementarity with traditional public security policies.\n\n\n\nJournal of Development Economics, 2025 Media Coverage: Vox Dev - How regulating junkyards reduced car theft in Brazil\nShort abstract: This paper investigates the impact of monitoring and market regulation on the illicit market for stolen goods, focusing on the association between junkyards and auto theft. I explore the effects of a state-level regulation implemented in São Paulo in 2014, which enhanced supervision of the auto parts market. I find an 8.11% decline in auto theft for municipalities presenting at least one junkyard specialized in auto parts compared to the control group. Additionally, I provide evidence of a meaningful decrease in vehicle insurance prices, suggesting tangible economic benefits for citizens as a result of lower crime rates. These findings offer crucial insights into market regulation as a crime deterrence strategy to reduce the trade of stolen goods, highlighting its complementarity with traditional public security policies.\n\n\n\nWorld Development, 2025\nShort abstract: Violent crime is prevalent in developing countries, requiring substantial investments in law enforcement. This paper shows how police surveillance is crucial to deterring homicides in violent areas. I investigate the impact of reduced law enforcement on crime by leveraging data on police strikes, violent deaths, victims’ records, and criminal groups. Following a police strike, homicides in Brazilian states increase temporarily by 45%, and 88% of deaths in neighborhoods with many criminal groups are of suspected gang members. My theoretical model describes the mechanism behind increased killings, demonstrating that police strike amplifies the expected gains from gang conflicts and retaliation. This pushes criminals to attack rivals, even when territories are evenly divided.\n\n\n\nRevista Brasileira de Economia, 2024\nShort abstract: In this paper, we analyze two quasi-experiments to assess how urban traffic restrictions and social distancing norms affect pollution levels in the municipality São Paulo, one of the largest metropolitan areas in the world. First, using hourly air pollution levels measured in thirty-three monitoring stations in the state of São Paulo, we exploit exogenous variation in quarantine rules following the COVID-19 outbreak to estimate how social distancing norms affected pollution levels across different municipalities. We find an average decrease of 22.4% in air pollution after the first days of the capital’s quarantine announcement, with heterogeneous effects across pollutants, driven by decreases in the vehicle fleet and urban mobility. Second, we compare this effect with another quasi-experiment that explores exogenous suspensions of traffic restriction rules between 2000-2018 in the municipality of São Paulo. We also document increases in pollution levels when more cars are allowed in the streets, with an average increase of 16.7% in air pollution. Finally, we use our estimates to show that a reduction of 4.7 times the estimated ATT in the quarantine period is necessary to reach the capital’s long-term air quality goals.\n\n\n\nEconomiA, 2020\nShort abstract: This work explores that Brazilian public firms were allowed to hire workers either as statutory (“civil servants”) as well as under private market labor regime (“CLT”). We use RAIS that matches employer-employee data for all formal firms in Brazil from 2014 to 2016 to control for fixed effects at the individual and firm levels and the Oaxaca-Blinder decomposition to quantify the size of the wage differential explained by the labor regime versus individual characteristics. We find that CLT civil servants earn in average R$ 310.00 per month less than similar statutory positions, a difference of 13% comparing the average wage of each group. Only for high skilled workers we found a salary R$ 95.98 larger for CLT employees. Last, our decomposition strategy reveals that the largest share of the gap is not explained by endowments differences."
   },
   {
-    "objectID": "index.html#pesquisa",
-    "href": "index.html#pesquisa",
-    "title": "André Mancha",
-    "section": "Pesquisa",
-    "text": "Pesquisa\nMeus trabalhos investigam temas como:\n\nMercado de trabalho e informalidade\n\nPolíticas de segurança pública\n\nImpactos de intervenções governamentais\n\nEconomia do desenvolvimento"
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nMotorized and More Motivated? Militarized Patrols and Crime in Ceará, Brazil\nwith Joana Monteiro, Michael Lee Weintraub\nStatus: Revise and Resubimit, American Political Science Review\nShort abstract: Countries in the developing world bear high costs associated with violent crime. Diverse solutions to reducing violent crime focus on retooling police forces, but these approaches have proven inadequate because the problems run so deep. Can new, more militarized, and better-motivated squads reduce crime? Using two different empirical approaches - a difference-in-differences strategy and a regression discontinuity design that uses a population threshold to determine program eligibility - we evaluate the roll-out of the Rondas e Ações Intensivas e Ostensivas (RAIO) across municipalities in Ceará, Brazil, a state of nearly 10 million inhabitants. We find meaningful reductions in homicides and property crimes. Given that we find no increases in arrests, we believe the crime reduction effects are likely due to deterrence, rather than incapacitation of criminals. We pair these crime results with a citizen survey in Fortaleza, Ceará’s capital, which includes embedded survey experiments, to better understand the mechanisms behind these improvements in public safety.\n\n\n\nThe state strikes back: evidence from a huge police crackdown in Brazil\nStatus: Draft\nShort abstract: This paper evaluates the impact of Operação Verão, a high-intensity policing initiative launched in São Paulo state, on crime rates and police lethality. Using municipal-level monthly panel data and difference-in-differences models, I find that while the operation significantly increased police use of lethal force, its effect on most crime indicators was small and short-lived. These results raise concerns about the cost effectiveness and strategic value of such interventions.\n\n\n\nSolving More, Killing Less: The Impact of Homicide Investigation on Lethal Violence in Brazil.\nwith Giovanna Úbidda Status: Draft coming soon\nShort abstract: This paper estimates the causal impact of homicide investigation reforms on clearance rates and lethal violence in the Brazilian state of Paraíba. Exploiting the spatial variation in road travel time to specialized homicide units as a source of differential exposure to the 2021 institutional reforms — which standardized a clearance indicator, digitalized court records, and expanded the investigative workforce — we find that proximity to these units significantly increases clearance rates and reduces investigation time. Using a difference-in-differences design with municipality and region-year fixed effects, we estimate that an additional hour of travel time to the nearest unit reduces the clearance rate by approximately 3%. These results provide novel causal evidence regarding institutional reforms strengthening criminal investigation — with implications for public safety policy in Brazil and the broader Global South."
   },
   {
-    "objectID": "index.html#projetos",
-    "href": "index.html#projetos",
-    "title": "André Mancha",
-    "section": "Projetos",
-    "text": "Projetos\n\n📊 Matemática Financeira"
-  },
-  {
-    "objectID": "index.html#contato",
-    "href": "index.html#contato",
-    "title": "André Mancha",
-    "section": "Contato",
-    "text": "Contato\n\nEmail: andre.mancha@usp.br\n\nGoogle Scholar\n\nCV\n\nLinkedIn"
+    "objectID": "research.html#policy-work",
+    "href": "research.html#policy-work",
+    "title": "Research",
+    "section": "Policy Work",
+    "text": "Policy Work\nSelected policy-oriented work and reports.\n\nJob Trainning\nJob Search\nMicrocredit\nFuture of Work\nInformality"
   },
   {
     "objectID": "about.html",
@@ -75,5 +68,40 @@
     "title": "Sobre",
     "section": "Nota",
     "text": "Nota\nEste site reúne projetos, materiais de ensino e pesquisas em andamento."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "André Mancha",
+    "section": "",
+    "text": "Sou pesquisador em economia aplicada, com foco em avaliação de políticas públicas, mercado de trabalho e crime.\nMinha agenda de pesquisa combina métodos econométricos com aplicações em desenvolvimento econômico e políticas baseadas em evidência."
+  },
+  {
+    "objectID": "index.html#bem-vindo",
+    "href": "index.html#bem-vindo",
+    "title": "André Mancha",
+    "section": "",
+    "text": "Sou pesquisador em economia aplicada, com foco em avaliação de políticas públicas, mercado de trabalho e crime.\nMinha agenda de pesquisa combina métodos econométricos com aplicações em desenvolvimento econômico e políticas baseadas em evidência."
+  },
+  {
+    "objectID": "index.html#pesquisa",
+    "href": "index.html#pesquisa",
+    "title": "André Mancha",
+    "section": "Pesquisa",
+    "text": "Pesquisa\nMeus trabalhos investigam temas como:\n\nMercado de trabalho e informalidade\n\nPolíticas de segurança pública\n\nImpactos de intervenções governamentais\n\nEconomia do desenvolvimento"
+  },
+  {
+    "objectID": "index.html#projetos",
+    "href": "index.html#projetos",
+    "title": "André Mancha",
+    "section": "Projetos",
+    "text": "Projetos\n\n📊 Matemática Financeira"
+  },
+  {
+    "objectID": "index.html#contato",
+    "href": "index.html#contato",
+    "title": "André Mancha",
+    "section": "Contato",
+    "text": "Contato\n\nEmail: andre.mancha@usp.br\n\nGoogle Scholar\n\nCV\n\nLinkedIn"
   }
 ]
