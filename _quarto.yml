@@ -11,6 +11,8 @@ website:
         href: index.qmd
       - text: Sobre
         href: about.qmd
+      - text: Research
+        href: research.qmd
       - text: Matemática Financeira
         href: https://andre-mancha.github.io/MatFin/
 
