@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - ads.txt   
 
 website:
   title: "André Mancha"
@@ -20,5 +22,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+
 
 
