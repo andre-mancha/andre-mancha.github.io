@@ -1,1 +1,22 @@
 /* css styles */
+
+body {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  margin-top: 1.2em;
+}
+
+.navbar {
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
