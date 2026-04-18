@@ -4,104 +4,139 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Labour Economics, 2026\nShort abstract: The COVID-19 pandemic caused an unprecedented shift to remote work worldwide. In this paper, we investigate the dual impact of this transition on physical and mental health by analyzing over 1.5 million medical leaves in Brazil from 2018 to 2021. Using a differences-in-differences model, we compare workers from firms that transitioned to remote work (non-essential services) and the ones that stayed commuting to their workplace (essential services) before and after the pandemic. Our paper reveals a significant decrease in labor accidents, primarily driven by fewer bodily injuries, but a substantial increase in medical leaves related to mental health issues, particularly among men. The abrupt transition to remote work and increased domestic responsibilities in a setting of social distancing norms likely contributed to elevated stress levels and work-life conflicts. Our finding highlights remote work’s contrasting health impacts during the pandemic and underscores the need for targeted mental health support in remote work policies.\n\n\n\nJournal of Development Economics, 2025\nMedia Coverage: Vox Dev - How regulating junkyards reduced car theft in Brazil\nShort abstract: This paper investigates the impact of monitoring and market regulation on the illicit market for stolen goods, focusing on the association between junkyards and auto theft. I explore the effects of a state-level regulation implemented in São Paulo in 2014, which enhanced supervision of the auto parts market. I find an 8.11% decline in auto theft for municipalities presenting at least one junkyard specialized in auto parts compared to the control group. Additionally, I provide evidence of a meaningful decrease in vehicle insurance prices, suggesting tangible economic benefits for citizens as a result of lower crime rates. These findings offer crucial insights into market regulation as a crime deterrence strategy to reduce the trade of stolen goods, highlighting its complementarity with traditional public security policies.\n\n\n\nWorld Development, 2025\nShort abstract: Violent crime is prevalent in developing countries, requiring substantial investments in law enforcement. This paper shows how police surveillance is crucial to deterring homicides in violent areas. I investigate the impact of reduced law enforcement on crime by leveraging data on police strikes, violent deaths, victims’ records, and criminal groups. Following a police strike, homicides in Brazilian states increase temporarily by 45%, and 88% of deaths in neighborhoods with many criminal groups are of suspected gang members. My theoretical model describes the mechanism behind increased killings, demonstrating that police strike amplifies the expected gains from gang conflicts and retaliation. This pushes criminals to attack rivals, even when territories are evenly divided.\n\n\n\nRevista Brasileira de Economia, 2024\nShort abstract: In this paper, we analyze two quasi-experiments to assess how urban traffic restrictions and social distancing norms affect pollution levels in the municipality São Paulo, one of the largest metropolitan areas in the world. First, using hourly air pollution levels measured in thirty-three monitoring stations in the state of São Paulo, we exploit exogenous variation in quarantine rules following the COVID-19 outbreak to estimate how social distancing norms affected pollution levels across different municipalities. We find an average decrease of 22.4% in air pollution after the first days of the capital’s quarantine announcement, with heterogeneous effects across pollutants, driven by decreases in the vehicle fleet and urban mobility. Second, we compare this effect with another quasi-experiment that explores exogenous suspensions of traffic restriction rules between 2000-2018 in the municipality of São Paulo. We also document increases in pollution levels when more cars are allowed in the streets, with an average increase of 16.7% in air pollution. Finally, we use our estimates to show that a reduction of 4.7 times the estimated ATT in the quarantine period is necessary to reach the capital’s long-term air quality goals.\n\n\n\nEconomiA, 2020\nShort abstract: This work explores that Brazilian public firms were allowed to hire workers either as statutory (“civil servants”) as well as under private market labor regime (“CLT”). We use RAIS that matches employer-employee data for all formal firms in Brazil from 2014 to 2016 to control for fixed effects at the individual and firm levels and the Oaxaca-Blinder decomposition to quantify the size of the wage differential explained by the labor regime versus individual characteristics. We find that CLT civil servants earn in average R$ 310.00 per month less than similar statutory positions, a difference of 13% comparing the average wage of each group. Only for high skilled workers we found a salary R$ 95.98 larger for CLT employees. Last, our decomposition strategy reveals that the largest share of the gap is not explained by endowments differences."
+    "text": "(with Elisa Peres) — Labour Economics, 2026\n\n\nAbstract\n\n\nThe COVID-19 pandemic caused an unprecedented shift to remote work worldwide. In this paper, we investigate the dual impact of this transition on physical and mental health by analyzing over 1.5 million medical leaves in Brazil from 2018 to 2021. Using a differences-in-differences model, we compare workers from firms that transitioned to remote work (non-essential services) and the ones that stayed commuting to their workplace (essential services) before and after the pandemic. Our paper reveals a significant decrease in labor accidents, primarily driven by fewer bodily injuries, but a substantial increase in medical leaves related to mental health issues, particularly among men. The abrupt transition to remote work and increased domestic responsibilities in a setting of social distancing norms likely contributed to elevated stress levels and work-life conflicts. Our finding highlights remote work’s contrasting health impacts during the pandemic and underscores the need for targeted mental health support in remote work policies.\n\n\n\n\n\n\nJournal of Development Economics, 2025\nMedia Coverage: Vox Dev — How regulating junkyards reduced car theft in Brazil\n\n\nAbstract\n\n\nThis paper investigates the impact of monitoring and market regulation on the illicit market for stolen goods, focusing on the association between junkyards and auto theft. I explore the effects of a state-level regulation implemented in São Paulo in 2014, which enhanced supervision of the auto parts market. I find an 8.11% decline in auto theft for municipalities presenting at least one junkyard specialized in auto parts compared to the control group. Additionally, I provide evidence of a meaningful decrease in vehicle insurance prices, suggesting tangible economic benefits for citizens as a result of lower crime rates. These findings offer crucial insights into market regulation as a crime deterrence strategy to reduce the trade of stolen goods, highlighting its complementarity with traditional public security policies.\n\n\n\n\n\n\nWorld Development, 2025\n\n\nAbstract\n\n\nViolent crime is prevalent in developing countries, requiring substantial investments in law enforcement. This paper shows how police surveillance is crucial to deterring homicides in violent areas. I investigate the impact of reduced law enforcement on crime by leveraging data on police strikes, violent deaths, victims’ records, and criminal groups. Following a police strike, homicides in Brazilian states increase temporarily by 45%, and 88% of deaths in neighborhoods with many criminal groups are of suspected gang members. My theoretical model describes the mechanism behind increased killings, demonstrating that police strike amplifies the expected gains from gang conflicts and retaliation. This pushes criminals to attack rivals, even when territories are evenly divided.\n\n\n\n\n\n\n(with Lucas Macoris, Naércio Menezes-Filho) — Revista Brasileira de Economia, 2024\n\n\nAbstract\n\n\nIn this paper, we analyze two quasi-experiments to assess how urban traffic restrictions and social distancing norms affect pollution levels in the municipality São Paulo, one of the largest metropolitan areas in the world. First, using hourly air pollution levels measured in thirty-three monitoring stations in the state of São Paulo, we exploit exogenous variation in quarantine rules following the COVID-19 outbreak to estimate how social distancing norms affected pollution levels across different municipalities. We find an average decrease of 22.4% in air pollution after the first days of the capital’s quarantine announcement, with heterogeneous effects across pollutants, driven by decreases in the vehicle fleet and urban mobility. Second, we compare this effect with another quasi-experiment that explores exogenous suspensions of traffic restriction rules between 2000–2018 in the municipality of São Paulo. We also document increases in pollution levels when more cars are allowed in the streets, with an average increase of 16.7% in air pollution. Finally, we use our estimates to show that a reduction of 4.7 times the estimated ATT in the quarantine period is necessary to reach the capital’s long-term air quality goals.\n\n\n\n\n\n\n(with Enlinson Mattos) — EconomiA, 2020\n\n\nAbstract\n\n\nThis work explores that Brazilian public firms were allowed to hire workers either as statutory (“civil servants”) as well as under private market labor regime (“CLT”). We use RAIS that matches employer-employee data for all formal firms in Brazil from 2014 to 2016 to control for fixed effects at the individual and firm levels and the Oaxaca-Blinder decomposition to quantify the size of the wage differential explained by the labor regime versus individual characteristics. We find that CLT civil servants earn in average R$ 310.00 per month less than similar statutory positions, a difference of 13% comparing the average wage of each group. Only for high skilled workers we found a salary R$ 95.98 larger for CLT employees. Last, our decomposition strategy reveals that the largest share of the gap is not explained by endowments differences."
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
     "section": "",
-    "text": "Labour Economics, 2026\nShort abstract: The COVID-19 pandemic caused an unprecedented shift to remote work worldwide. In this paper, we investigate the dual impact of this transition on physical and mental health by analyzing over 1.5 million medical leaves in Brazil from 2018 to 2021. Using a differences-in-differences model, we compare workers from firms that transitioned to remote work (non-essential services) and the ones that stayed commuting to their workplace (essential services) before and after the pandemic. Our paper reveals a significant decrease in labor accidents, primarily driven by fewer bodily injuries, but a substantial increase in medical leaves related to mental health issues, particularly among men. The abrupt transition to remote work and increased domestic responsibilities in a setting of social distancing norms likely contributed to elevated stress levels and work-life conflicts. Our finding highlights remote work’s contrasting health impacts during the pandemic and underscores the need for targeted mental health support in remote work policies.\n\n\n\nJournal of Development Economics, 2025\nMedia Coverage: Vox Dev - How regulating junkyards reduced car theft in Brazil\nShort abstract: This paper investigates the impact of monitoring and market regulation on the illicit market for stolen goods, focusing on the association between junkyards and auto theft. I explore the effects of a state-level regulation implemented in São Paulo in 2014, which enhanced supervision of the auto parts market. I find an 8.11% decline in auto theft for municipalities presenting at least one junkyard specialized in auto parts compared to the control group. Additionally, I provide evidence of a meaningful decrease in vehicle insurance prices, suggesting tangible economic benefits for citizens as a result of lower crime rates. These findings offer crucial insights into market regulation as a crime deterrence strategy to reduce the trade of stolen goods, highlighting its complementarity with traditional public security policies.\n\n\n\nWorld Development, 2025\nShort abstract: Violent crime is prevalent in developing countries, requiring substantial investments in law enforcement. This paper shows how police surveillance is crucial to deterring homicides in violent areas. I investigate the impact of reduced law enforcement on crime by leveraging data on police strikes, violent deaths, victims’ records, and criminal groups. Following a police strike, homicides in Brazilian states increase temporarily by 45%, and 88% of deaths in neighborhoods with many criminal groups are of suspected gang members. My theoretical model describes the mechanism behind increased killings, demonstrating that police strike amplifies the expected gains from gang conflicts and retaliation. This pushes criminals to attack rivals, even when territories are evenly divided.\n\n\n\nRevista Brasileira de Economia, 2024\nShort abstract: In this paper, we analyze two quasi-experiments to assess how urban traffic restrictions and social distancing norms affect pollution levels in the municipality São Paulo, one of the largest metropolitan areas in the world. First, using hourly air pollution levels measured in thirty-three monitoring stations in the state of São Paulo, we exploit exogenous variation in quarantine rules following the COVID-19 outbreak to estimate how social distancing norms affected pollution levels across different municipalities. We find an average decrease of 22.4% in air pollution after the first days of the capital’s quarantine announcement, with heterogeneous effects across pollutants, driven by decreases in the vehicle fleet and urban mobility. Second, we compare this effect with another quasi-experiment that explores exogenous suspensions of traffic restriction rules between 2000-2018 in the municipality of São Paulo. We also document increases in pollution levels when more cars are allowed in the streets, with an average increase of 16.7% in air pollution. Finally, we use our estimates to show that a reduction of 4.7 times the estimated ATT in the quarantine period is necessary to reach the capital’s long-term air quality goals.\n\n\n\nEconomiA, 2020\nShort abstract: This work explores that Brazilian public firms were allowed to hire workers either as statutory (“civil servants”) as well as under private market labor regime (“CLT”). We use RAIS that matches employer-employee data for all formal firms in Brazil from 2014 to 2016 to control for fixed effects at the individual and firm levels and the Oaxaca-Blinder decomposition to quantify the size of the wage differential explained by the labor regime versus individual characteristics. We find that CLT civil servants earn in average R$ 310.00 per month less than similar statutory positions, a difference of 13% comparing the average wage of each group. Only for high skilled workers we found a salary R$ 95.98 larger for CLT employees. Last, our decomposition strategy reveals that the largest share of the gap is not explained by endowments differences."
+    "text": "(with Elisa Peres) — Labour Economics, 2026\n\n\nAbstract\n\n\nThe COVID-19 pandemic caused an unprecedented shift to remote work worldwide. In this paper, we investigate the dual impact of this transition on physical and mental health by analyzing over 1.5 million medical leaves in Brazil from 2018 to 2021. Using a differences-in-differences model, we compare workers from firms that transitioned to remote work (non-essential services) and the ones that stayed commuting to their workplace (essential services) before and after the pandemic. Our paper reveals a significant decrease in labor accidents, primarily driven by fewer bodily injuries, but a substantial increase in medical leaves related to mental health issues, particularly among men. The abrupt transition to remote work and increased domestic responsibilities in a setting of social distancing norms likely contributed to elevated stress levels and work-life conflicts. Our finding highlights remote work’s contrasting health impacts during the pandemic and underscores the need for targeted mental health support in remote work policies.\n\n\n\n\n\n\nJournal of Development Economics, 2025\nMedia Coverage: Vox Dev — How regulating junkyards reduced car theft in Brazil\n\n\nAbstract\n\n\nThis paper investigates the impact of monitoring and market regulation on the illicit market for stolen goods, focusing on the association between junkyards and auto theft. I explore the effects of a state-level regulation implemented in São Paulo in 2014, which enhanced supervision of the auto parts market. I find an 8.11% decline in auto theft for municipalities presenting at least one junkyard specialized in auto parts compared to the control group. Additionally, I provide evidence of a meaningful decrease in vehicle insurance prices, suggesting tangible economic benefits for citizens as a result of lower crime rates. These findings offer crucial insights into market regulation as a crime deterrence strategy to reduce the trade of stolen goods, highlighting its complementarity with traditional public security policies.\n\n\n\n\n\n\nWorld Development, 2025\n\n\nAbstract\n\n\nViolent crime is prevalent in developing countries, requiring substantial investments in law enforcement. This paper shows how police surveillance is crucial to deterring homicides in violent areas. I investigate the impact of reduced law enforcement on crime by leveraging data on police strikes, violent deaths, victims’ records, and criminal groups. Following a police strike, homicides in Brazilian states increase temporarily by 45%, and 88% of deaths in neighborhoods with many criminal groups are of suspected gang members. My theoretical model describes the mechanism behind increased killings, demonstrating that police strike amplifies the expected gains from gang conflicts and retaliation. This pushes criminals to attack rivals, even when territories are evenly divided.\n\n\n\n\n\n\n(with Lucas Macoris, Naércio Menezes-Filho) — Revista Brasileira de Economia, 2024\n\n\nAbstract\n\n\nIn this paper, we analyze two quasi-experiments to assess how urban traffic restrictions and social distancing norms affect pollution levels in the municipality São Paulo, one of the largest metropolitan areas in the world. First, using hourly air pollution levels measured in thirty-three monitoring stations in the state of São Paulo, we exploit exogenous variation in quarantine rules following the COVID-19 outbreak to estimate how social distancing norms affected pollution levels across different municipalities. We find an average decrease of 22.4% in air pollution after the first days of the capital’s quarantine announcement, with heterogeneous effects across pollutants, driven by decreases in the vehicle fleet and urban mobility. Second, we compare this effect with another quasi-experiment that explores exogenous suspensions of traffic restriction rules between 2000–2018 in the municipality of São Paulo. We also document increases in pollution levels when more cars are allowed in the streets, with an average increase of 16.7% in air pollution. Finally, we use our estimates to show that a reduction of 4.7 times the estimated ATT in the quarantine period is necessary to reach the capital’s long-term air quality goals.\n\n\n\n\n\n\n(with Enlinson Mattos) — EconomiA, 2020\n\n\nAbstract\n\n\nThis work explores that Brazilian public firms were allowed to hire workers either as statutory (“civil servants”) as well as under private market labor regime (“CLT”). We use RAIS that matches employer-employee data for all formal firms in Brazil from 2014 to 2016 to control for fixed effects at the individual and firm levels and the Oaxaca-Blinder decomposition to quantify the size of the wage differential explained by the labor regime versus individual characteristics. We find that CLT civil servants earn in average R$ 310.00 per month less than similar statutory positions, a difference of 13% comparing the average wage of each group. Only for high skilled workers we found a salary R$ 95.98 larger for CLT employees. Last, our decomposition strategy reveals that the largest share of the gap is not explained by endowments differences."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\n\nMotorized and More Motivated? Militarized Patrols and Crime in Ceará, Brazil\nwith Joana Monteiro, Michael Lee Weintraub\nStatus: Revise and Resubimit, American Political Science Review\nShort abstract: Countries in the developing world bear high costs associated with violent crime. Diverse solutions to reducing violent crime focus on retooling police forces, but these approaches have proven inadequate because the problems run so deep. Can new, more militarized, and better-motivated squads reduce crime? Using two different empirical approaches - a difference-in-differences strategy and a regression discontinuity design that uses a population threshold to determine program eligibility - we evaluate the roll-out of the Rondas e Ações Intensivas e Ostensivas (RAIO) across municipalities in Ceará, Brazil, a state of nearly 10 million inhabitants. We find meaningful reductions in homicides and property crimes. Given that we find no increases in arrests, we believe the crime reduction effects are likely due to deterrence, rather than incapacitation of criminals. We pair these crime results with a citizen survey in Fortaleza, Ceará’s capital, which includes embedded survey experiments, to better understand the mechanisms behind these improvements in public safety.\n\n\n\nThe state strikes back: evidence from a huge police crackdown in Brazil\nStatus: Draft\nShort abstract: This paper evaluates the impact of Operação Verão, a high-intensity policing initiative launched in São Paulo state, on crime rates and police lethality. Using municipal-level monthly panel data and difference-in-differences models, I find that while the operation significantly increased police use of lethal force, its effect on most crime indicators was small and short-lived. These results raise concerns about the cost effectiveness and strategic value of such interventions.\n\n\n\nSolving More, Killing Less: The Impact of Homicide Investigation on Lethal Violence in Brazil.\nwith Giovanna Úbidda\nStatus: Draft coming soon\nShort abstract: This paper estimates the causal impact of homicide investigation reforms on clearance rates and lethal violence in the Brazilian state of Paraíba. Exploiting the spatial variation in road travel time to specialized homicide units as a source of differential exposure to the 2021 institutional reforms — which standardized a clearance indicator, digitalized court records, and expanded the investigative workforce — we find that proximity to these units significantly increases clearance rates and reduces investigation time. Using a difference-in-differences design with municipality and region-year fixed effects, we estimate that an additional hour of travel time to the nearest unit reduces the clearance rate by approximately 3%. These results provide novel causal evidence regarding institutional reforms strengthening criminal investigation — with implications for public safety policy in Brazil and the broader Global South."
+    "text": "Working Papers\n\nMotorized and More Motivated? Militarized Patrols and Crime in Ceará, Brazil\n(with Joana Monteiro, Michael Lee Weintraub)\nStatus: Revise and Resubmit, American Political Science Review\n\n\nAbstract\n\n\nCountries in the developing world bear high costs associated with violent crime. Diverse solutions to reducing violent crime focus on retooling police forces, but these approaches have proven inadequate because the problems run so deep. Can new, more militarized, and better-motivated squads reduce crime? Using two different empirical approaches — a difference-in-differences strategy and a regression discontinuity design that uses a population threshold to determine program eligibility — we evaluate the roll-out of the Rondas e Ações Intensivas e Ostensivas (RAIO) across municipalities in Ceará, Brazil, a state of nearly 10 million inhabitants. We find meaningful reductions in homicides and property crimes. Given that we find no increases in arrests, we believe the crime reduction effects are likely due to deterrence, rather than incapacitation of criminals. We pair these crime results with a citizen survey in Fortaleza, Ceará’s capital, which includes embedded survey experiments, to better understand the mechanisms behind these improvements in public safety.\n\n\n\n\n\nThe state strikes back: evidence from a huge police crackdown in Brazil\nStatus: Draft\n\n\nAbstract\n\n\nThis paper evaluates the impact of Operação Verão, a high-intensity policing initiative launched in São Paulo state, on crime rates and police lethality. Using municipal-level monthly panel data and difference-in-differences models, I find that while the operation significantly increased police use of lethal force, its effect on most crime indicators was small and short-lived. These results raise concerns about the cost effectiveness and strategic value of such interventions.\n\n\n\n\n\nSolving More, Killing Less: The Impact of Homicide Investigation on Lethal Violence in Brazil\n(with Giovanna Úbidda)\nStatus: Draft coming soon\n\n\nAbstract\n\n\nThis paper estimates the causal impact of homicide investigation reforms on clearance rates and lethal violence in the Brazilian state of Paraíba. Exploiting the spatial variation in road travel time to specialized homicide units as a source of differential exposure to the 2021 institutional reforms — which standardized a clearance indicator, digitalized court records, and expanded the investigative workforce — we find that proximity to these units significantly increases clearance rates and reduces investigation time. Using a difference-in-differences design with municipality and region-year fixed effects, we estimate that an additional hour of travel time to the nearest unit reduces the clearance rate by approximately 3%. These results provide novel causal evidence regarding institutional reforms strengthening criminal investigation — with implications for public safety policy in Brazil and the broader Global South."
   },
   {
     "objectID": "research.html#policy-work",
     "href": "research.html#policy-work",
     "title": "Research",
     "section": "Policy Work",
-    "text": "Policy Work\nSelected policy-oriented work and reports.\n\nJob Trainning\nJob Search\nMicrocredit\nFuture of Work\nInformality"
+    "text": "Policy Work\nSelected policy-oriented work and reports.\n\nJob Training\nJob Search\nMicrocredit\nFuture of Work\nInformality"
+  },
+  {
+    "objectID": "pt/about.html",
+    "href": "pt/about.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "🇺🇸 English version\nSou economista com experiência em pesquisa aplicada, avaliação de impacto e políticas públicas.\nMinha agenda de pesquisa busca gerar evidência rigorosa para informar decisões de política econômica, com foco em países em desenvolvimento."
+  },
+  {
+    "objectID": "pt/about.html#bio",
+    "href": "pt/about.html#bio",
+    "title": "Sobre",
+    "section": "Bio",
+    "text": "Bio\nAndré Mancha é pesquisador em economia aplicada, com interesse em mercado de trabalho, criminalidade e avaliação de políticas públicas. Seu trabalho utiliza métodos econométricos modernos, incluindo experimentos e abordagens quase-experimentais, para analisar o impacto de intervenções governamentais.\nAtualmente é professor na Universidade de São Paulo (USP — FEA), onde leciona Matemática Financeira e disciplinas relacionadas na Graduação em Economia. Anteriormente atuou no Insper, lecionando econometria, microeconomia aplicada e organização industrial."
+  },
+  {
+    "objectID": "pt/about.html#áreas-de-interesse",
+    "href": "pt/about.html#áreas-de-interesse",
+    "title": "Sobre",
+    "section": "Áreas de Interesse",
+    "text": "Áreas de Interesse\n\nEconomia do Trabalho\nEconomia do Crime\nAvaliação de Impacto\nDesenvolvimento Econômico"
+  },
+  {
+    "objectID": "pt/about.html#links",
+    "href": "pt/about.html#links",
+    "title": "Sobre",
+    "section": "Links",
+    "text": "Links\n\n📄 Curriculum Vitae\n📚 Google Scholar\n💼 LinkedIn\n🧠 GitHub"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Sobre",
+    "title": "About",
     "section": "",
-    "text": "Sou economista com experiência em pesquisa aplicada, avaliação de impacto e políticas públicas.\nAtualmente atuo com projetos que buscam gerar evidência rigorosa para informar decisões de política econômica, com foco em países em desenvolvimento."
-  },
-  {
-    "objectID": "about.html#sobre",
-    "href": "about.html#sobre",
-    "title": "Sobre",
-    "section": "",
-    "text": "Sou economista com experiência em pesquisa aplicada, avaliação de impacto e políticas públicas.\nAtualmente atuo com projetos que buscam gerar evidência rigorosa para informar decisões de política econômica, com foco em países em desenvolvimento."
+    "text": "I am an economist with experience in applied research, impact evaluation, and public policy.\nMy work focuses on generating rigorous evidence to inform economic policy decisions, with emphasis on developing countries."
   },
   {
     "objectID": "about.html#bio",
     "href": "about.html#bio",
-    "title": "Sobre",
+    "title": "About",
     "section": "Bio",
-    "text": "Bio\nAndré Mancha é pesquisador na área de economia aplicada, com interesse em mercado de trabalho, criminalidade e avaliação de políticas públicas.\nSeu trabalho utiliza métodos econométricos modernos, incluindo experimentos e abordagens quase-experimentais, para analisar o impacto de intervenções governamentais.\nAntes disso, atuou como professor no Insper, onde lecionou disciplinas como econometria, microeconomia aplicada e organização industrial."
+    "text": "Bio\nAndré Mancha is an applied economist with interests in labor markets, crime, and public policy evaluation. His research uses modern econometric methods, including experiments and quasi-experimental approaches, to analyze the impact of government interventions.\nHe is currently a professor at the University of São Paulo (USP — FEA), where he teaches Financial Mathematics and related courses in the Economics undergraduate program. He previously taught at Insper, where he lectured on econometrics, applied microeconomics, and industrial organization."
   },
   {
-    "objectID": "about.html#áreas-de-interesse",
-    "href": "about.html#áreas-de-interesse",
-    "title": "Sobre",
-    "section": "Áreas de Interesse",
-    "text": "Áreas de Interesse\n\nEconomia do Trabalho\n\nEconomia do Crime\n\nAvaliação de Impacto\n\nDesenvolvimento Econômico"
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nLabor Economics\nEconomics of Crime\nImpact Evaluation\nDevelopment Economics"
   },
   {
     "objectID": "about.html#links",
     "href": "about.html#links",
-    "title": "Sobre",
+    "title": "About",
     "section": "Links",
-    "text": "Links\n\n📄 Curriculum Vitae\n\n📚 Google Scholar\n\n💼 LinkedIn\n\n🧠 GitHub"
-  },
-  {
-    "objectID": "about.html#nota",
-    "href": "about.html#nota",
-    "title": "Sobre",
-    "section": "Nota",
-    "text": "Nota\nEste site reúne projetos, materiais de ensino e pesquisas em andamento."
+    "text": "Links\n\n📄 Curriculum Vitae\n📚 Google Scholar\n💼 LinkedIn\n🧠 GitHub"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "André Mancha",
     "section": "",
-    "text": "Sou pesquisador em economia aplicada, com foco em avaliação de políticas públicas, mercado de trabalho e crime.\nMinha agenda de pesquisa combina métodos econométricos com aplicações em desenvolvimento econômico e políticas baseadas em evidência."
+    "text": "I am an applied economist with research interests in labor economics, public security, and policy evaluation. My work combines modern econometric methods — including quasi-experimental designs and natural experiments — with applications in development economics and evidence-based policy."
   },
   {
-    "objectID": "index.html#bem-vindo",
-    "href": "index.html#bem-vindo",
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "André Mancha",
+    "section": "Research",
+    "text": "Research\nMy research investigates topics such as:\n\nLabor markets and informality\nPublic security policies\nImpacts of government interventions\nDevelopment economics"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "André Mancha",
+    "section": "Teaching",
+    "text": "Teaching\n\n📊 Financial Mathematics (in Portuguese)\n📈 Time Series Econometrics (in Portuguese)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "André Mancha",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: andre.mancha@usp.br\nGoogle Scholar\nCV\nLinkedIn"
+  },
+  {
+    "objectID": "pt/index.html",
+    "href": "pt/index.html",
     "title": "André Mancha",
     "section": "",
-    "text": "Sou pesquisador em economia aplicada, com foco em avaliação de políticas públicas, mercado de trabalho e crime.\nMinha agenda de pesquisa combina métodos econométricos com aplicações em desenvolvimento econômico e políticas baseadas em evidência."
+    "text": "🇺🇸 English version\nSou economista aplicado com interesse em economia do trabalho, segurança pública e avaliação de políticas. Minha pesquisa combina métodos econométricos modernos — incluindo desenhos quase-experimentais e experimentos naturais — com aplicações em economia do desenvolvimento e políticas baseadas em evidência."
   },
   {
-    "objectID": "index.html#pesquisa",
-    "href": "index.html#pesquisa",
+    "objectID": "pt/index.html#pesquisa",
+    "href": "pt/index.html#pesquisa",
     "title": "André Mancha",
     "section": "Pesquisa",
-    "text": "Pesquisa\nMeus trabalhos investigam temas como:\n\nMercado de trabalho e informalidade\n\nPolíticas de segurança pública\n\nImpactos de intervenções governamentais\n\nEconomia do desenvolvimento"
+    "text": "Pesquisa\nMeus trabalhos investigam temas como:\n\nMercado de trabalho e informalidade\nPolíticas de segurança pública\nImpactos de intervenções governamentais\nEconomia do desenvolvimento"
   },
   {
-    "objectID": "index.html#projetos",
-    "href": "index.html#projetos",
+    "objectID": "pt/index.html#ensino",
+    "href": "pt/index.html#ensino",
     "title": "André Mancha",
-    "section": "Projetos",
-    "text": "Projetos\n\n📊 Matemática Financeira"
+    "section": "Ensino",
+    "text": "Ensino\n\n📊 Matemática Financeira\n📈 Econometria de Séries de Tempo"
   },
   {
-    "objectID": "index.html#contato",
-    "href": "index.html#contato",
+    "objectID": "pt/index.html#contato",
+    "href": "pt/index.html#contato",
     "title": "André Mancha",
     "section": "Contato",
-    "text": "Contato\n\nEmail: andre.mancha@usp.br\n\nGoogle Scholar\n\nCV\n\nLinkedIn"
+    "text": "Contato\n\nEmail: andre.mancha@usp.br\nGoogle Scholar\nCV\nLinkedIn"
   }
 ]
